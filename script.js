@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function initCountdownTimer() {
     // Set the date for the next competition (you can modify this date)
     // Format: Year, Month (0-11), Day, Hour, Minute, Second
-    const nextCompetitionDate = new Date(2025, 2, 15, 9, 0, 0); // March 15, 2025, 9:00 AM
+    const nextCompetitionDate = new Date(2026, 1, 16, 7, 0, 0); // March 15, 2025, 9:00 AM
     
     const daysElement = document.getElementById('days');
     const hoursElement = document.getElementById('hours');
