@@ -86,6 +86,19 @@ To update the countdown timer for the next competition:
 AbsoluteHack.setCompetitionDate(2025, 2, 15, 9, 0, 0); // March 15, 2025 at 9:00 AM
 ```
 
+### Deploying to GitHub Pages
+To enable GitHub Pages for this repository:
+
+1. Go to the repository on GitHub: [https://github.com/Cayden625/AbsoluteHack](https://github.com/Cayden625/AbsoluteHack)
+2. Click on **Settings** tab
+3. Scroll down to **Pages** in the left sidebar
+4. Under **Source**, select **Deploy from a branch**
+5. Choose **main** branch and **/ (root)** folder
+6. Click **Save**
+7. Your site will be available at: [https://cayden625.github.io/AbsoluteHack/](https://cayden625.github.io/AbsoluteHack/)
+
+The deployment process takes a few minutes. Once enabled, the site will automatically update when you push changes to the main branch.
+
 ### File Structure
 ```
 /
